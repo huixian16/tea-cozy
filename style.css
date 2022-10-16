@@ -12,21 +12,20 @@ header {
     top: 0px;
     height: 69px;
     border-bottom: 1px solid seashell;
-    display: block;
 }
 
 nav.container {
-    display: inline-flex;
+    display: flex;
     justify-content: space-between;
 }
 
-nav figure.child {
+#nav figure.child {
     margin-left: 10px;
     height: 50px;
     width: 120px;
 }
 
-nav ul li{
+#nav ul li{
     text-decoration: underline;
     list-style: none;
     display: inline;
