@@ -7,5 +7,8 @@ To create a website called Tea Cozy (https://huixian16.github.io/tea-cozy/) usin
 - It is convenient to use flexbox to position an object
 - Bootstrap (https://getbootstrap.com/) is a framework that is also based on flexbox
 
+## Possible future edits
+- Implementing Grid as a structure
+
 ## Reference
 Design spec and images used are from Codecademy (https://www.codecademy.com/)
