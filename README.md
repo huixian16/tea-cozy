@@ -9,6 +9,8 @@ To create a website called Tea Cozy (https://huixian16.github.io/tea-cozy/) usin
 
 ## Possible future edits
 - Implementing Grid as a structure
+- Responsive design
+- Making it web accessible
 
 ## Reference
 Design spec and images used are from Codecademy (https://www.codecademy.com/)
